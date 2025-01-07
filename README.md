@@ -95,7 +95,12 @@ Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
   
 
 ---
+## ✍️ Consideraciones a tener en cuenta
 
+  
+
+- **Version de Docker Probada:** 27.4.1.  
+- **Problemas con AVX mongodb:** Si tu procesador no soporta AVX cambia la version de Mongo en el docker-compose.yml a mongo:4.4.
   
 
 ## 🧑‍💻 Tecnologías Utilizadas
@@ -133,3 +138,4 @@ Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 ## 👥 Autor
 
 - [Juan Pablo](https://github.com/JuanPabloOrtizJaimes)
+
