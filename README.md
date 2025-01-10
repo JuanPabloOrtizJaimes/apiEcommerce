@@ -46,7 +46,7 @@ Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
 ```bash
 
-	git clone <URL_DEL_REPOSITORIO>
+	git clone https://github.com/JuanPabloOrtizJaimes/apiEcommerce.git
 
 ```
 
@@ -66,7 +66,7 @@ Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
 ```bash
 
-	cd <NOMBRE_DE_LA_CARPETA>
+	cd apiEcommerce-main
 
   ```
 
